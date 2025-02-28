@@ -7,5 +7,5 @@ Actual C++ programs will be placed in another, very clearly marked repository.
 
 TABLE OF CONTENTS:
 
-01  keywords
-02  naming conventions
+01  keywords<br>
+02  naming conventions<br>
