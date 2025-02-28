@@ -5,7 +5,7 @@ ChatGPT 4.0 was used as a resource to make all of the documents.
 
 Actual C++ programs will be placed in another, very clearly marked repository.
 
-TABLE OF CONTENTS:
+<strong>TABLE OF CONTENTS:</strong>
 
 01  keywords<br>
 02  naming conventions<br>
