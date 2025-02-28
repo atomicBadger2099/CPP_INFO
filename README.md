@@ -1,4 +1,4 @@
-# CPP_INFORMATIONAL
+# CPP_INFO
 
 This repository is for information needed to learn to program in C++.
 ChatGPT 4.0 was used as a resource to make all of the documents.
