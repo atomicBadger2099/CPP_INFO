@@ -7,7 +7,7 @@ ChatGPT 4.0 was used as a resource to make all of the documents.
 
 <strong>TABLE OF CONTENTS:</strong>
 
-01  keywords<br>
+<a href="https://github.com/atomicBadger2099/CPP_INFO/blob/main/01%20KEYWORDS.pdf" target="_blank">01  keywords</a><br>
 02  naming conventions<br>
 03  statements<br>
 04  expressions<br>
