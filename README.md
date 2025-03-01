@@ -6,7 +6,7 @@ ChatGPT 4.0 was used as a resource to make all of the documents.
 <em>Actual C++ programs will be placed in another, very clearly marked repository.</em>
 
 <strong>TABLE OF CONTENTS:</strong>
-(links go to matching article)
+&nbsp; (links go to matching article)
 
 <a href="https://github.com/atomicBadger2099/CPP_INFO/blob/main/01%20KEYWORDS.pdf" target="_blank">01  keywords</a><br>
 <a href="https://github.com/atomicBadger2099/CPP_INFO/blob/main/02%20NAMING_CONVENTIONS.pdf" target="_blank">02  naming conventions</a><br>
