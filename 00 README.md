@@ -17,4 +17,4 @@ ChatGPT 4.0 was used as a resource to make all of the documents.
 <a href="07 DATATYPES.pdf" target="_blank">07  datatypes</a><br>
 <a href="08 VARIABLES.pdf" target="_blank">08  variables</a><br>
 <a href="09 NAMESPACES.pdf" target="_blank">09  namespaces</a><br>
-10  Input/Output<br>
+<a href="10 C++ I-O.pdf" target="_blank">10  Input/Output</a><br>
