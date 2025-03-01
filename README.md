@@ -12,7 +12,7 @@ ChatGPT 4.0 was used as a resource to make all of the documents.
 <a href="https://github.com/atomicBadger2099/CPP_INFO/blob/main/02%20NAMING_CONVENTIONS.pdf" target="_blank">02  naming conventions</a><br>
 <a href="https://github.com/atomicBadger2099/CPP_INFO/blob/main/03%20STATEMENTS.pdf" target="_blank">03  statements</a><br>
 <a href="https://github.com/atomicBadger2099/CPP_INFO/blob/main/04%20EXPRESSIONS.pdf" target="_blank">04  expressions</a><br>
-05  operators<br>
+<a href="05 OPERATORS.pdf" target="_blank">05  operators</a><br>
 06  escape sequences<br>
 07  datatypes<br>
 08  variables<br>
