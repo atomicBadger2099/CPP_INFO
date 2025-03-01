@@ -16,5 +16,5 @@ ChatGPT 4.0 was used as a resource to make all of the documents.
 <a href="06 ESCAPE SEQUENCES.pdf" target="_blank">06  escape sequences</a><br>
 <a href="07 DATATYPES.pdf" target="_blank">07  datatypes</a><br>
 <a href="08 VARIABLES.pdf" target="_blank">08  variables</a><br>
-09  namespaces<br>
+<a href="09 NAMESPACES.pdf" target="_blank">09  namespaces</a><br>
 10  Input/Output<br>
